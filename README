@@ -15,17 +15,17 @@ Quick start of Foursquare Action Stream
 
 -----------------------------------------------------
 
-Foursquare Action Stremƒvƒ‰ƒOƒCƒ“‚ÌŽg‚¢•û
+Foursquare Action Stremãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã®ä½¿ã„æ–¹
 
-1. Movable Type‚ÉƒƒOƒCƒ“‚µ‚Ü‚·B
-2. ƒVƒXƒeƒ€‚Ìƒ_ƒbƒVƒ…ƒ{[ƒh‚ðŠJ‚«‚Ü‚·B
-3. [ƒc[ƒ‹]¨[ƒvƒ‰ƒOƒCƒ“]ƒƒjƒ…[‚ð‘I‚Ñ‚Ü‚·B
-4. Foursquare Action Streamƒvƒ‰ƒOƒCƒ“‚ÌÝ’è‚ðŠJ‚«‚Ü‚·B
-5. ‚²Ž©•ª‚ÌƒTƒCƒg‚ÌGoogle Maps API Key‚ð“ü—Í‚µ‚Ü‚·B
-6. ‚²Ž©•ª‚ÌƒvƒƒtƒB[ƒ‹‚Ìƒy[ƒW‚ðŠJ‚«‚Ü‚·B
-7. u—˜—pƒT[ƒrƒXv‚ÌƒŠƒ“ƒN‚ðƒNƒŠƒbƒN‚µ‚ÄAu—˜—pƒT[ƒrƒXv‚Ìƒy[ƒW‚ÉˆÚ“®‚µ‚Ü‚·B
-8. uƒvƒƒtƒB[ƒ‹’Ç‰Áv‚ÌƒŠƒ“ƒN‚ðƒNƒŠƒbƒN‚µ‚Ü‚·B
-9. uƒT[ƒrƒXv‚ÌƒZƒŒƒNƒg‚ÅuFoursquarev‚ð‘I‚Ñ‚Ü‚·B
-10. uKML IDv‚Ì—“‚É‚²Ž©•ª‚ÌKML ID‚ð“ü—Í‚µ‚Ü‚·B
-11. uƒvƒƒtƒB[ƒ‹’Ç‰Ávƒ{ƒ^ƒ“‚ðƒNƒŠƒbƒN‚µ‚Ü‚·B
-12. ƒvƒ‰ƒOƒCƒ“‚ð‚¨Šy‚µ‚Ý‚­‚¾‚³‚¢B
+1. Movable Typeã«ãƒ­ã‚°ã‚¤ãƒ³ã—ã¾ã™ã€‚
+2. ã‚·ã‚¹ãƒ†ãƒ ã®ãƒ€ãƒƒã‚·ãƒ¥ãƒœãƒ¼ãƒ‰ã‚’é–‹ãã¾ã™ã€‚
+3. [ãƒ„ãƒ¼ãƒ«]â†’[ãƒ—ãƒ©ã‚°ã‚¤ãƒ³]ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‚’é¸ã³ã¾ã™ã€‚
+4. Foursquare Action Streamãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã®è¨­å®šã‚’é–‹ãã¾ã™ã€‚
+5. ã”è‡ªåˆ†ã®ã‚µã‚¤ãƒˆã®Google Maps API Keyã‚’å…¥åŠ›ã—ã¾ã™ã€‚
+6. ã”è‡ªåˆ†ã®ãƒ—ãƒ­ãƒ•ã‚£ãƒ¼ãƒ«ã®ãƒšãƒ¼ã‚¸ã‚’é–‹ãã¾ã™ã€‚
+7. ã€Œåˆ©ç”¨ã‚µãƒ¼ãƒ“ã‚¹ã€ã®ãƒªãƒ³ã‚¯ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¦ã€ã€Œåˆ©ç”¨ã‚µãƒ¼ãƒ“ã‚¹ã€ã®ãƒšãƒ¼ã‚¸ã«ç§»å‹•ã—ã¾ã™ã€‚
+8. ã€Œãƒ—ãƒ­ãƒ•ã‚£ãƒ¼ãƒ«è¿½åŠ ã€ã®ãƒªãƒ³ã‚¯ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¾ã™ã€‚
+9. ã€Œã‚µãƒ¼ãƒ“ã‚¹ã€ã®ã‚»ãƒ¬ã‚¯ãƒˆã§ã€ŒFoursquareã€ã‚’é¸ã³ã¾ã™ã€‚
+10. ã€ŒKML IDã€ã®æ¬„ã«ã”è‡ªåˆ†ã®KML IDã‚’å…¥åŠ›ã—ã¾ã™ã€‚
+11. ã€Œãƒ—ãƒ­ãƒ•ã‚£ãƒ¼ãƒ«è¿½åŠ ã€ãƒœã‚¿ãƒ³ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¾ã™ã€‚
+12. ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã‚’ãŠæ¥½ã—ã¿ãã ã•ã„ã€‚
