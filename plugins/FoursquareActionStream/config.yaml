@@ -1,0 +1,36 @@
+name: Foursquare Action Stream
+id: FoursquareActionStream
+key: FoursquareActionStream
+author_name: <__trans phrase="Hajime Fujimoto">
+author_link: http://www.h-fj.com/blog/
+description: <__trans phrase="Action stream of your checked in places on Foursquare.">
+plugin_link: http://www.h-fj.com/blog/mt5plgdoc/foursquareactionstream.php
+doc_link: http://www.h-fj.com/blog/mt5plgdoc/foursquareactionstream.php
+version: 1.00
+l10n_class: FoursquareActionStream::L10N
+settings:
+    fjfsas_apikey:
+        Default: ''
+        Scope: system
+system_config_template: sys_config_template.tmpl
+
+profile_services:
+    foursquare:
+        name: Foursquare
+        url: http://feeds.foursquare.com/history/{{ident}}.kml
+        ident_label: KML ID
+        ident_example: ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEF
+        ident_hint: |-
+            You can find your KML ID in your feeds URL. Please check your http://foursquare/feeds/ . For example: http://feeds.foursquare.com/history/ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEF.kml
+        service_type: status
+        icon: images/foursquare.png
+action_streams:
+    foursquare:
+        places:
+            name: Checked in places
+            description: Checked in places on Foursquare
+            html_form: '[_1] checked in <a href="[_2]">[_3]</a>'
+            html_params:
+                - url
+                - title
+            class: Foursquare

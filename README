@@ -1,0 +1,31 @@
+Quick start of Foursquare Action Stream
+
+1. Log in to Movable Type.
+2. Open system dashboard page.
+3. Select [ Tools ]-[ Plugins ] menu.
+4. Open settings of Foursquare Action Stream plugin.
+5. Input Google Maps API Key of your site.
+6. Open your profile page.
+7. Click "Other Profiles" link and open Other Profiles page.
+8. Click "Add Profile" link.
+9. Select "Foursquare" on service select box.
+10. Input youe KML ID to "KML ID" textbox.
+11. Click "Save Changes" button.
+12. Enjoy!
+
+-----------------------------------------------------
+
+Foursquare Action Stremプラグインの使い方
+
+1. Movable Typeにログインします。
+2. システムのダッシュボードを開きます。
+3. [ツール]→[プラグイン]メニューを選びます。
+4. Foursquare Action Streamプラグインの設定を開きます。
+5. ご自分のサイトのGoogle Maps API Keyを入力します。
+6. ご自分のプロフィールのページを開きます。
+7. 「利用サービス」のリンクをクリックして、「利用サービス」のページに移動します。
+8. 「プロフィール追加」のリンクをクリックします。
+9. 「サービス」のセレクトで「Foursquare」を選びます。
+10. 「KML ID」の欄にご自分のKML IDを入力します。
+11. 「プロフィール追加」ボタンをクリックします。
+12. プラグインをお楽しみください。
